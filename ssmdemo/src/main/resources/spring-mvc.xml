@@ -60,11 +60,11 @@
 
 
     <mvc:resources mapping="/js/**"
-                   location="/statics/js"/>
+                   location="/statics/js/"/>
     <mvc:resources mapping="/css/**"
-                   location="/statics/css"/>
+                   location="/statics/css/"/>
     <mvc:resources mapping="/images/**"
-                   location="statics/images"/>
+                   location="statics/images/"/>
     <mvc:default-servlet-handler />
 
 </beans>
